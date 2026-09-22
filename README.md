@@ -177,4 +177,4 @@ This project is intentionally being released into public discussion.
 
 It does not belong to a political party.
 
-It does not
+It does not belong to any individual.
