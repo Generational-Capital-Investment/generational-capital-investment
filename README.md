@@ -57,8 +57,6 @@ The hypothesis asks whether long-horizon public investment could eventually help
 * Create productive public assets
 * Generate long-term public investment income
 * Strengthen the national balance sheet
-* Reduce pressure from federal debt
-* Strengthen the long-term solvency of Social Security
 * Encourage investment in infrastructure, science, energy, health, technology, and human capital
 * Leave future generations more assets and fewer liabilities
 * Create greater shared economic interest among American citizens
